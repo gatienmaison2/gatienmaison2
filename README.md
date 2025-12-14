@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello 👋
+
+🌍 Toulouse (France)
+📶 I am a second-year student in Bachelor of Science in Computer Science specialized in system, network and cybersecurity.
+
+## Skills
+
+</> Application development (Ada, Java, Python)
+🌐 Web development (HTML, PHP, Laravel)
+🖧 System and network administration (Windows, Linux)
+🛢 Databases (SQL)
 
 <!--
 **gatienmaison2/gatienmaison2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
