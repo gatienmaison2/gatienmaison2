@@ -1,13 +1,13 @@
 ## Hello 👋
 
-🌍 Toulouse (France)
+🌍 Toulouse (France)<br>
 📶 I am a second-year student in Bachelor of Science in Computer Science specialized in system, network and cybersecurity.
 
 ## Skills
 
-</> Application development (Ada, Java, Python)
-🌐 Web development (HTML, PHP, Laravel)
-🖧 System and network administration (Windows, Linux)
+</> Application development (Ada, Java, Python)<br>
+🌐 Web development (HTML, PHP, Laravel)<br>
+🖧 System and network administration (Windows, Linux)<br>
 🛢 Databases (SQL)
 
 <!--
