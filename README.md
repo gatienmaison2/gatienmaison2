@@ -1,7 +1,7 @@
 ## Hello 👋
 
 🌍 Toulouse (France)<br>
-📶 I am a second-year student in Bachelor of Science in Computer Science specialized in system, network and cybersecurity.
+📶 I am a second-year student studying for a bachelor’s degree in computer science.
 
 ## Skills
 
